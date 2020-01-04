@@ -1,1 +1,2 @@
 Hello word has been added to thisfile.
+We areadding a new row to this file
